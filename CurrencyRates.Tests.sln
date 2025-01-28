@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyRates.Tests", "CurrencyRates.Tests\CurrencyRates.Tests.csproj", "{9BF7FB1B-7413-415E-8721-F3B4737C6829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyRates", "..\CurrencyRates\CurrencyRates\CurrencyRates.csproj", "{30BD18ED-753A-40B4-8DFF-74F59188840C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF7FB1B-7413-415E-8721-F3B4737C6829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF7FB1B-7413-415E-8721-F3B4737C6829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF7FB1B-7413-415E-8721-F3B4737C6829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF7FB1B-7413-415E-8721-F3B4737C6829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BD18ED-753A-40B4-8DFF-74F59188840C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BD18ED-753A-40B4-8DFF-74F59188840C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BD18ED-753A-40B4-8DFF-74F59188840C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BD18ED-753A-40B4-8DFF-74F59188840C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
